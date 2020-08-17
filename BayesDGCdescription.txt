@@ -1,0 +1,13 @@
+http://parnec.nuaa.edu.cn/code_BayesDGC.ashx
+
+BayesDGC
+Description: This package includes the code of BayesDGC & BayesGC, which solves the crowdsourcing aggregation problem with Bayesian generative learning respectively using features by dnn and only using annotations[1]. A readme file and  example data are included in the package.
+
+References:S.-Y. Li, S.-J. Huang and S. Chen. Crowdsourcing Aggregation with Deep Bayesian
+Learning, submitted to Science China Information Science.
+
+
+
+Requirement: The package was developed with tensorflow.
+
+ATTN: This package is free for academic usage. You can run it at your own risk. It was developed by Ms. Shao-Yuan Li (lisy@nuaa.edu.cn). For any problem concerning the code, please feel free to contact Ms. Li(lisy@nuaa.edu.cn). 
